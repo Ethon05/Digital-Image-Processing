@@ -1,0 +1,7 @@
+- Implemented various Digital Image Processing techniques including:
+  - Image enhancement (histogram equalization, filtering)
+  - Morphological operations
+  - Image segmentation (thresholding and region growing)
+  - Classification using Minimum Distance Classifier (MDC)
+- Included detailed visualizations and step-by-step explanations
+- Final project submission for the Digital Image Processing course
